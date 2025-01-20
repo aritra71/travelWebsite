@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.002cda1f.chunk.css",
+    "main.js": "/static/js/main.cc1c24fb.chunk.js",
+    "main.js.map": "/static/js/main.cc1c24fb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.42543a3e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.42543a3e.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.8ccd3f25.chunk.js": "/static/js/2.8ccd3f25.chunk.js",
+    "static/js/2.8ccd3f25.chunk.js.map": "/static/js/2.8ccd3f25.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2e2aed38b912645367550892685d8448.js": "/precache-manifest.2e2aed38b912645367550892685d8448.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.002cda1f.chunk.css.map": "/static/css/main.002cda1f.chunk.css.map",
+    "static/js/2.8ccd3f25.chunk.js.LICENSE.txt": "/static/js/2.8ccd3f25.chunk.js.LICENSE.txt",
+    "static/media/Balishira.jpg": "/static/media/Balishira.3138588f.jpg",
+    "static/media/Inn.jpg": "/static/media/Inn.39a85182.jpg",
+    "static/media/Jungle.jpg": "/static/media/Jungle.1c5d3e33.jpg",
+    "static/media/Sajek.png": "/static/media/Sajek.c530f679.png",
+    "static/media/Sreemongol.png": "/static/media/Sreemongol.6d0300f1.png",
+    "static/media/arrow.svg": "/static/media/arrow.5ada2a8c.svg",
+    "static/media/App.css": "/static/media/coxsbazar.32162f64.png",
+    "static/media/coxtoday.jpg": "/static/media/coxtoday.9ba62e19.jpg",
+    "static/media/icon.png": "/static/media/icon.47737d2c.png",
+    "static/media/laxman.jpg": "/static/media/laxman.fed486c3.jpg",
+    "static/media/meghpunji.jpg": "/static/media/meghpunji.8bafcb49.jpg",
+    "static/media/royaltulip.jpg": "/static/media/royaltulip.264a0fdb.jpg",
+    "static/media/rungrang.jpg": "/static/media/rungrang.18ca7916.jpg",
+    "static/media/saymon.jpeg": "/static/media/saymon.4a090c56.jpeg",
+    "static/media/sundarban1.jpg": "/static/media/sundarban1.8ea5d7f7.jpg",
+    "static/media/sundarban2.jpg": "/static/media/sundarban2.ed0da88d.jpg",
+    "static/media/sundarban3.jpg": "/static/media/sundarban3.2e2438e3.jpg",
+    "static/media/sundorbon.png": "/static/media/sundorbon.978671e9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42543a3e.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.8ccd3f25.chunk.js",
+    "static/css/main.002cda1f.chunk.css",
+    "static/js/main.cc1c24fb.chunk.js"
+  ]
+}
